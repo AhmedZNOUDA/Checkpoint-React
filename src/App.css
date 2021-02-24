@@ -1,3 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
 }
@@ -36,3 +42,18 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  text-align: center;
+  color: dodgerblue;
+  font-size: 2.575rem;
+}
+
+form{
+  justify-content: center;
+}
+
+jumbotron {
+  width: 80%;
+}
+
